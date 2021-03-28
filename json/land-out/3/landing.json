@@ -1,0 +1,194 @@
+{
+  "chunking": {
+    "endChunk": [
+      851,
+      "85.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 2330
+  },
+  "bestDistance": "84.844713 km",
+  "difficulty": [
+    {
+      "endChunk": "3.5 km",
+      "down": 1,
+      "chunk": 34,
+      "startChunk": "3.4 km",
+      "frac": 0.00756836,
+      "downers": [
+        [
+          "108",
+          "Jean louis FOGLIA"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00021459,
+      "endAhead": "29.0 km",
+      "downs": [
+        "3.437 km"
+      ]
+    },
+    {
+      "endChunk": "47.4 km",
+      "down": 2,
+      "chunk": 473,
+      "startChunk": "47.3 km",
+      "frac": 0.28149414,
+      "downers": [
+        [
+          "129",
+          "Stepan Zubashev"
+        ],
+        [
+          "109",
+          "Marcello Ciarlo"
+        ]
+      ],
+      "downward": 8,
+      "rel": 0.00171674,
+      "endAhead": "72.9 km",
+      "downs": [
+        "47.339 km",
+        "47.370 km"
+      ]
+    },
+    {
+      "endChunk": "49.1 km",
+      "down": 1,
+      "chunk": 490,
+      "startChunk": "49.0 km",
+      "frac": 0.3034668,
+      "downers": [
+        [
+          "102",
+          "Walter Bacchi"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.00128755,
+      "endAhead": "74.6 km",
+      "downs": [
+        "49.025 km"
+      ]
+    },
+    {
+      "endChunk": "51.7 km",
+      "down": 1,
+      "chunk": 516,
+      "startChunk": "51.6 km",
+      "frac": 0.33276367,
+      "downers": [
+        [
+          "131",
+          "Jurgen Buchert"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.00128755,
+      "endAhead": "77.2 km",
+      "downs": [
+        "51.602 km"
+      ]
+    },
+    {
+      "endChunk": "55.9 km",
+      "down": 1,
+      "chunk": 558,
+      "startChunk": "55.8 km",
+      "frac": 0.37792969,
+      "downers": [
+        [
+          "114",
+          "Konrad Lueders"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00107296,
+      "endAhead": "81.4 km",
+      "downs": [
+        "55.847 km"
+      ]
+    },
+    {
+      "endChunk": "59.1 km",
+      "down": 1,
+      "chunk": 590,
+      "startChunk": "59.0 km",
+      "frac": 0.40527344,
+      "downers": [
+        [
+          "132",
+          "Emiel Jansen"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00085837,
+      "endAhead": "84.6 km",
+      "downs": [
+        "59.022 km"
+      ]
+    },
+    {
+      "endChunk": "72.4 km",
+      "down": 1,
+      "chunk": 723,
+      "startChunk": "72.3 km",
+      "frac": 0.4909668,
+      "downers": [
+        [
+          "124",
+          "Rousselet Simon"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00064378,
+      "endAhead": "97.9 km",
+      "downs": [
+        "72.388 km"
+      ]
+    },
+    {
+      "endChunk": "72.5 km",
+      "down": 1,
+      "chunk": 724,
+      "startChunk": "72.4 km",
+      "frac": 0.49145508,
+      "downers": [
+        [
+          "133",
+          "Johann Courtain"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00042918,
+      "endAhead": "98.0 km",
+      "downs": [
+        "72.469 km"
+      ]
+    },
+    {
+      "endChunk": "76.5 km",
+      "down": 1,
+      "chunk": 764,
+      "startChunk": "76.4 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "126",
+          "Andrea Theodoli"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00021459,
+      "endAhead": "102.0 km",
+      "downs": [
+        "76.439 km"
+      ]
+    }
+  ],
+  "lookahead": 255,
+  "landout": 10
+}

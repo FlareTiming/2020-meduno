@@ -1,0 +1,227 @@
+{
+  "chunking": {
+    "endChunk": [
+      851,
+      "85.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 2258
+  },
+  "bestDistance": "84.498418 km",
+  "difficulty": [
+    {
+      "endChunk": "6.3 km",
+      "down": 1,
+      "chunk": 62,
+      "startChunk": "6.2 km",
+      "frac": 0.06665039,
+      "downers": [
+        [
+          "131",
+          "Jurgen Buchert"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00110717,
+      "endAhead": "29.3 km",
+      "downs": [
+        "6.297 km"
+      ]
+    },
+    {
+      "endChunk": "15.4 km",
+      "down": 1,
+      "chunk": 153,
+      "startChunk": "15.3 km",
+      "frac": 0.17602539,
+      "downers": [
+        [
+          "109",
+          "Marcello Ciarlo"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.00132861,
+      "endAhead": "38.4 km",
+      "downs": [
+        "15.389 km"
+      ]
+    },
+    {
+      "endChunk": "20.9 km",
+      "down": 1,
+      "chunk": 208,
+      "startChunk": "20.8 km",
+      "frac": 0.24584961,
+      "downers": [
+        [
+          "124",
+          "Rousselet Simon"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00155004,
+      "endAhead": "43.9 km",
+      "downs": [
+        "20.821 km"
+      ]
+    },
+    {
+      "endChunk": "22.2 km",
+      "down": 1,
+      "chunk": 221,
+      "startChunk": "22.1 km",
+      "frac": 0.26318359,
+      "downers": [
+        [
+          "129",
+          "Stepan Zubashev"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.00132861,
+      "endAhead": "45.2 km",
+      "downs": [
+        "22.147 km"
+      ]
+    },
+    {
+      "endChunk": "24.4 km",
+      "down": 1,
+      "chunk": 243,
+      "startChunk": "24.3 km",
+      "frac": 0.28735352,
+      "downers": [
+        [
+          "115",
+          "ERIC MATHURIN"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00110717,
+      "endAhead": "47.4 km",
+      "downs": [
+        "24.341 km"
+      ]
+    },
+    {
+      "endChunk": "31.8 km",
+      "down": 1,
+      "chunk": 317,
+      "startChunk": "31.7 km",
+      "frac": 0.35473633,
+      "downers": [
+        [
+          "114",
+          "Konrad Lueders"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00110717,
+      "endAhead": "54.8 km",
+      "downs": [
+        "31.704 km"
+      ]
+    },
+    {
+      "endChunk": "32.0 km",
+      "down": 1,
+      "chunk": 319,
+      "startChunk": "31.9 km",
+      "frac": 0.35644531,
+      "downers": [
+        [
+          "110",
+          "Tullio Gervasoni"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00088574,
+      "endAhead": "55.0 km",
+      "downs": [
+        "31.926 km"
+      ]
+    },
+    {
+      "endChunk": "40.4 km",
+      "down": 1,
+      "chunk": 403,
+      "startChunk": "40.3 km",
+      "frac": 0.42163086,
+      "downers": [
+        [
+          "104",
+          "Valentino Bau"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00088574,
+      "endAhead": "63.4 km",
+      "downs": [
+        "40.382 km"
+      ]
+    },
+    {
+      "endChunk": "43.4 km",
+      "down": 1,
+      "chunk": 433,
+      "startChunk": "43.3 km",
+      "frac": 0.44165039,
+      "downers": [
+        [
+          "122",
+          "Pieter Speeleveld"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.0006643,
+      "endAhead": "66.4 km",
+      "downs": [
+        "43.345 km"
+      ]
+    },
+    {
+      "endChunk": "54.0 km",
+      "down": 1,
+      "chunk": 539,
+      "startChunk": "53.9 km",
+      "frac": 0.48852539,
+      "downers": [
+        [
+          "103",
+          "Joerg Bajewski"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00044287,
+      "endAhead": "77.0 km",
+      "downs": [
+        "53.956 km"
+      ]
+    },
+    {
+      "endChunk": "59.2 km",
+      "down": 1,
+      "chunk": 591,
+      "startChunk": "59.1 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "102",
+          "Walter Bacchi"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00022143,
+      "endAhead": "82.2 km",
+      "downs": [
+        "59.177 km"
+      ]
+    }
+  ],
+  "lookahead": 230,
+  "landout": 11
+}

@@ -1,0 +1,112 @@
+[
+  [
+    [
+      "102",
+      "Walter Bacchi"
+    ],
+    {
+      "frac": 1,
+      "effort": "59.177000 km"
+    }
+  ],
+  [
+    [
+      "103",
+      "Joerg Bajewski"
+    ],
+    {
+      "frac": 0.97705078,
+      "effort": "53.956000 km"
+    }
+  ],
+  [
+    [
+      "122",
+      "Pieter Speeleveld"
+    ],
+    {
+      "frac": 0.88330078,
+      "effort": "43.345000 km"
+    }
+  ],
+  [
+    [
+      "104",
+      "Valentino Bau"
+    ],
+    {
+      "frac": 0.84326172,
+      "effort": "40.382000 km"
+    }
+  ],
+  [
+    [
+      "110",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.71289062,
+      "effort": "31.926000 km"
+    }
+  ],
+  [
+    [
+      "114",
+      "Konrad Lueders"
+    ],
+    {
+      "frac": 0.70947266,
+      "effort": "31.704000 km"
+    }
+  ],
+  [
+    [
+      "115",
+      "ERIC MATHURIN"
+    ],
+    {
+      "frac": 0.57470703,
+      "effort": "24.341000 km"
+    }
+  ],
+  [
+    [
+      "129",
+      "Stepan Zubashev"
+    ],
+    {
+      "frac": 0.52636719,
+      "effort": "22.147000 km"
+    }
+  ],
+  [
+    [
+      "124",
+      "Rousselet Simon"
+    ],
+    {
+      "frac": 0.49169922,
+      "effort": "20.821000 km"
+    }
+  ],
+  [
+    [
+      "109",
+      "Marcello Ciarlo"
+    ],
+    {
+      "frac": 0.35205078,
+      "effort": "15.389000 km"
+    }
+  ],
+  [
+    [
+      "131",
+      "Jurgen Buchert"
+    ],
+    {
+      "frac": 0.13330078,
+      "effort": "6.297000 km"
+    }
+  ]
+]

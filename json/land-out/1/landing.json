@@ -1,0 +1,375 @@
+{
+  "chunking": {
+    "endChunk": [
+      601,
+      "60.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 1712
+  },
+  "bestDistance": "59.144830 km",
+  "difficulty": [
+    {
+      "endChunk": "5.2 km",
+      "down": 1,
+      "chunk": 51,
+      "startChunk": "5.1 km",
+      "frac": 0.11450195,
+      "downers": [
+        [
+          "131",
+          "Jurgen Buchert"
+        ]
+      ],
+      "downward": 14,
+      "rel": 0.00408879,
+      "endAhead": "13.6 km",
+      "downs": [
+        "5.153 km"
+      ]
+    },
+    {
+      "endChunk": "6.5 km",
+      "down": 1,
+      "chunk": 64,
+      "startChunk": "6.4 km",
+      "frac": 0.16381836,
+      "downers": [
+        [
+          "132",
+          "Emiel Jansen"
+        ]
+      ],
+      "downward": 13,
+      "rel": 0.00379673,
+      "endAhead": "14.9 km",
+      "downs": [
+        "6.448 km"
+      ]
+    },
+    {
+      "endChunk": "8.3 km",
+      "down": 1,
+      "chunk": 82,
+      "startChunk": "8.2 km",
+      "frac": 0.22875977,
+      "downers": [
+        [
+          "122",
+          "Pieter Speeleveld"
+        ]
+      ],
+      "downward": 13,
+      "rel": 0.00379673,
+      "endAhead": "16.7 km",
+      "downs": [
+        "8.231 km"
+      ]
+    },
+    {
+      "endChunk": "8.6 km",
+      "down": 1,
+      "chunk": 85,
+      "startChunk": "8.5 km",
+      "frac": 0.23950195,
+      "downers": [
+        [
+          "133",
+          "Johann Courtain"
+        ]
+      ],
+      "downward": 13,
+      "rel": 0.00379673,
+      "endAhead": "17.0 km",
+      "downs": [
+        "8.595 km"
+      ]
+    },
+    {
+      "endChunk": "9.9 km",
+      "down": 1,
+      "chunk": 98,
+      "startChunk": "9.8 km",
+      "frac": 0.28515625,
+      "downers": [
+        [
+          "102",
+          "Walter Bacchi"
+        ]
+      ],
+      "downward": 12,
+      "rel": 0.00350467,
+      "endAhead": "18.3 km",
+      "downs": [
+        "9.888 km"
+      ]
+    },
+    {
+      "endChunk": "11.4 km",
+      "down": 3,
+      "chunk": 113,
+      "startChunk": "11.3 km",
+      "frac": 0.33325195,
+      "downers": [
+        [
+          "129",
+          "Stepan Zubashev"
+        ],
+        [
+          "119",
+          "Christian Pollet"
+        ],
+        [
+          "103",
+          "Joerg Bajewski"
+        ]
+      ],
+      "downward": 11,
+      "rel": 0.00321262,
+      "endAhead": "19.8 km",
+      "downs": [
+        "11.326 km",
+        "11.356 km",
+        "11.385 km"
+      ]
+    },
+    {
+      "endChunk": "11.5 km",
+      "down": 1,
+      "chunk": 114,
+      "startChunk": "11.4 km",
+      "frac": 0.33569336,
+      "downers": [
+        [
+          "110",
+          "Tullio Gervasoni"
+        ]
+      ],
+      "downward": 8,
+      "rel": 0.00233645,
+      "endAhead": "19.9 km",
+      "downs": [
+        "11.439 km"
+      ]
+    },
+    {
+      "endChunk": "12.0 km",
+      "down": 2,
+      "chunk": 119,
+      "startChunk": "11.9 km",
+      "frac": 0.34570312,
+      "downers": [
+        [
+          "109",
+          "Marcello Ciarlo"
+        ],
+        [
+          "101",
+          "Vanni Accattoli"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00204439,
+      "endAhead": "20.4 km",
+      "downs": [
+        "11.915 km",
+        "11.980 km"
+      ]
+    },
+    {
+      "endChunk": "12.4 km",
+      "down": 1,
+      "chunk": 123,
+      "startChunk": "12.3 km",
+      "frac": 0.3515625,
+      "downers": [
+        [
+          "124",
+          "Rousselet Simon"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00146028,
+      "endAhead": "20.8 km",
+      "downs": [
+        "12.304 km"
+      ]
+    },
+    {
+      "endChunk": "12.6 km",
+      "down": 1,
+      "chunk": 125,
+      "startChunk": "12.5 km",
+      "frac": 0.35400391,
+      "downers": [
+        [
+          "114",
+          "Konrad Lueders"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00116822,
+      "endAhead": "21.0 km",
+      "downs": [
+        "12.596 km"
+      ]
+    },
+    {
+      "endChunk": "12.8 km",
+      "down": 1,
+      "chunk": 127,
+      "startChunk": "12.7 km",
+      "frac": 0.35571289,
+      "downers": [
+        [
+          "108",
+          "Jean louis FOGLIA"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00087617,
+      "endAhead": "21.2 km",
+      "downs": [
+        "12.712 km"
+      ]
+    },
+    {
+      "endChunk": "16.1 km",
+      "down": 1,
+      "chunk": 160,
+      "startChunk": "16.0 km",
+      "frac": 0.38110352,
+      "downers": [
+        [
+          "126",
+          "Andrea Theodoli"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00116822,
+      "endAhead": "24.5 km",
+      "downs": [
+        "16.076 km"
+      ]
+    },
+    {
+      "endChunk": "16.9 km",
+      "down": 1,
+      "chunk": 168,
+      "startChunk": "16.8 km",
+      "frac": 0.38818359,
+      "downers": [
+        [
+          "118",
+          "Suan Selenati"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00087617,
+      "endAhead": "25.3 km",
+      "downs": [
+        "16.887 km"
+      ]
+    },
+    {
+      "endChunk": "22.7 km",
+      "down": 1,
+      "chunk": 226,
+      "startChunk": "22.6 km",
+      "frac": 0.4387207,
+      "downers": [
+        [
+          "115",
+          "ERIC MATHURIN"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00087617,
+      "endAhead": "31.1 km",
+      "downs": [
+        "22.626 km"
+      ]
+    },
+    {
+      "endChunk": "24.2 km",
+      "down": 1,
+      "chunk": 241,
+      "startChunk": "24.1 km",
+      "frac": 0.44750977,
+      "downers": [
+        [
+          "106",
+          "Lorenzo De Grandis"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00058411,
+      "endAhead": "32.6 km",
+      "downs": [
+        "24.164 km"
+      ]
+    },
+    {
+      "endChunk": "25.4 km",
+      "down": 1,
+      "chunk": 253,
+      "startChunk": "25.3 km",
+      "frac": 0.45507812,
+      "downers": [
+        [
+          "104",
+          "Valentino Bau"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00087617,
+      "endAhead": "33.8 km",
+      "downs": [
+        "25.319 km"
+      ]
+    },
+    {
+      "endChunk": "32.8 km",
+      "down": 1,
+      "chunk": 327,
+      "startChunk": "32.7 km",
+      "frac": 0.49829102,
+      "downers": [
+        [
+          "123",
+          "Sasha Serebrennikova"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00058411,
+      "endAhead": "41.2 km",
+      "downs": [
+        "32.725 km"
+      ]
+    },
+    {
+      "endChunk": "33.4 km",
+      "down": 1,
+      "chunk": 333,
+      "startChunk": "33.3 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "130",
+          "Oliver Salewski"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00029206,
+      "endAhead": "41.8 km",
+      "downs": [
+        "33.358 km"
+      ]
+    }
+  ],
+  "lookahead": 84,
+  "landout": 21
+}

@@ -1,0 +1,1203 @@
+[
+  [
+    [
+      "134",
+      "Roland Wöhrle"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 370.6,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 92.7,
+        "effort": 235.256,
+        "arrival": 66.2
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 1000,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "37.04 km / h",
+        "ssElapsed": "2.266543 h",
+        "gsElapsed": "2.275423 h",
+        "es": "2020-09-11T14:01:31.522155352173Z",
+        "ss": "2020-09-11T11:45:31.96772141431Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "36.90 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 1000,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "1"
+    }
+  ],
+  [
+    [
+      "105",
+      "Christian Ciech"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 356.8,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 88.7,
+        "effort": 235.256,
+        "arrival": 53
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 968.978,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "36.53 km / h",
+        "ssElapsed": "2.298654 h",
+        "gsElapsed": "2.304671 h",
+        "es": "2020-09-11T14:03:16.81532340991Z",
+        "ss": "2020-09-11T11:45:21.659474777071Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "36.40 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 968.978,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "2"
+    }
+  ],
+  [
+    [
+      "113",
+      "Marco Laurenzi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 353.3,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 86.3,
+        "effort": 235.256,
+        "arrival": 42.2
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 952.206,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "36.55 km / h",
+        "ssElapsed": "2.297465 h",
+        "gsElapsed": "2.313785 h",
+        "es": "2020-09-11T14:03:49.627493801404Z",
+        "ss": "2020-09-11T11:45:58.754706864151Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "36.30 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 952.206,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "3"
+    }
+  ],
+  [
+    [
+      "107",
+      "Joost Eertman"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 291.8,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 68.2,
+        "effort": 235.256,
+        "arrival": 33.5
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 864.037,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "33.59 km / h",
+        "ssElapsed": "2.499834 h",
+        "gsElapsed": "2.510857 h",
+        "es": "2020-09-11T14:15:39.08513324444Z",
+        "ss": "2020-09-11T11:45:39.683595107416Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "33.40 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 864.037,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "4"
+    }
+  ],
+  [
+    [
+      "106",
+      "Lorenzo De Grandis"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 266.8,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 69.3,
+        "effort": 235.256,
+        "arrival": 26.9
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 833.523,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "32.34 km / h",
+        "ssElapsed": "2.596577 h",
+        "gsElapsed": "2.602908 h",
+        "es": "2020-09-11T14:21:10.469588527833Z",
+        "ss": "2020-09-11T11:45:22.793895967181Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "32.30 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 833.523,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "5"
+    }
+  ],
+  [
+    [
+      "130",
+      "Oliver Salewski"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 218.1,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 45.9,
+        "effort": 235.256,
+        "arrival": 21.8
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 756.376,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "30.17 km / h",
+        "ssElapsed": "2.783024 h",
+        "gsElapsed": "2.795265 h",
+        "es": "2020-09-11T14:32:42.952593000141Z",
+        "ss": "2020-09-11T11:45:44.065364426283Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "30.00 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 756.376,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "6"
+    }
+  ],
+  [
+    [
+      "119",
+      "Christian Pollet"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 195.2,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 33.5,
+        "effort": 235.256,
+        "arrival": 18.3
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 717.556,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "29.12 km / h",
+        "ssElapsed": "2.883724 h",
+        "gsElapsed": "2.890114 h",
+        "es": "2020-09-11T14:38:24.409473952948Z",
+        "ss": "2020-09-11T11:45:23.002717173024Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "29.10 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 717.556,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "7"
+    }
+  ],
+  [
+    [
+      "118",
+      "Suan Selenati"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 171.3,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 56.2,
+        "effort": 235.256,
+        "arrival": 15.9
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 713.895,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "28.08 km / h",
+        "ssElapsed": "2.989906 h",
+        "gsElapsed": "2.992215 h",
+        "es": "2020-09-11T14:44:31.973742425285Z",
+        "ss": "2020-09-11T11:45:08.311789795338Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "28.10 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 713.895,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "8"
+    }
+  ],
+  [
+    [
+      "112",
+      "Marco Gröbner"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 164.9,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 32.2,
+        "effort": 235.256,
+        "arrival": 14.4
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 682.053,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "27.92 km / h",
+        "ssElapsed": "3.007667 h",
+        "gsElapsed": "3.019715 h",
+        "es": "2020-09-11T14:46:10.974854902016Z",
+        "ss": "2020-09-11T11:45:43.374925483925Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "27.80 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 682.053,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "9"
+    }
+  ],
+  [
+    [
+      "123",
+      "Sasha Serebrennikova"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "84.498 km",
+        "flown": "84.498 km"
+      },
+      "breakdown": {
+        "time": 16.5,
+        "reach": 235.256,
+        "distance": 470.512,
+        "leading": 20.4,
+        "effort": 235.256,
+        "arrival": 13.6
+      },
+      "essNotGoal": false,
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "84.498 km",
+      "subtotal": 520.967,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": "22.71 km / h",
+        "ssElapsed": "3.697398 h",
+        "gsElapsed": "3.703854 h",
+        "es": "2020-09-11T15:27:13.873925439656Z",
+        "ss": "2020-09-11T11:45:23.242584926292Z",
+        "ssDistance": "83.962 km",
+        "gsVelocity": "22.70 km / h"
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 520.967,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "10"
+    }
+  ],
+  [
+    [
+      "102",
+      "Walter Bacchi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "59.177 km",
+        "flown": "59.177 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 164.759,
+        "distance": 400.015,
+        "leading": 9.1,
+        "effort": 235.256,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "481.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "59.177 km",
+      "subtotal": 409.155,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:45:48.644078279534Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 409.155,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "11"
+    }
+  ],
+  [
+    [
+      "103",
+      "Joerg Bajewski"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "53.956 km",
+        "flown": "53.956 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 150.223,
+        "distance": 380.08,
+        "leading": 13.2,
+        "effort": 229.857,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "253.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "53.956 km",
+      "subtotal": 393.3,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:45:37.794384801062Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 393.3,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "12"
+    }
+  ],
+  [
+    [
+      "122",
+      "Pieter Speeleveld"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "43.345 km",
+        "flown": "43.345 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 120.68,
+        "distance": 328.482,
+        "leading": 0,
+        "effort": 207.802,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "255.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "43.345 km",
+      "subtotal": 328.482,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:48:12.406949077165Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 328.482,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "13"
+    }
+  ],
+  [
+    [
+      "104",
+      "Valentino Bau"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "40.382 km",
+        "flown": "40.382 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 112.431,
+        "distance": 310.813,
+        "leading": 0,
+        "effort": 198.382,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "184.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "40.382 km",
+      "subtotal": 310.813,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:48:57.007049464783Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 310.813,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "14"
+    }
+  ],
+  [
+    [
+      "110",
+      "Tullio Gervasoni"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "31.926 km",
+        "flown": "31.926 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 88.888,
+        "distance": 256.6,
+        "leading": 0,
+        "effort": 167.712,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "129.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "31.926 km",
+      "subtotal": 256.6,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:45:31.7427884761Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 256.6,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "15"
+    }
+  ],
+  [
+    [
+      "115",
+      "ERIC MATHURIN"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "24.341 km",
+        "flown": "24.341 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 67.77,
+        "distance": 202.973,
+        "leading": 0,
+        "effort": 135.203,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "178.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "24.341 km",
+      "subtotal": 202.973,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:45:38.211445177895Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 202.973,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "16"
+    }
+  ],
+  [
+    [
+      "129",
+      "Stepan Zubashev"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "22.147 km",
+        "flown": "22.147 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 61.662,
+        "distance": 185.493,
+        "leading": 0,
+        "effort": 123.831,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "177.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "22.147 km",
+      "subtotal": 185.493,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:45:41.148738689052Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 185.493,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "17"
+    }
+  ],
+  [
+    [
+      "124",
+      "Rousselet Simon"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "20.821 km",
+        "flown": "20.821 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 57.97,
+        "distance": 173.645,
+        "leading": 0,
+        "effort": 115.675,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "160.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "20.821 km",
+      "subtotal": 173.645,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:45:38.111363047253Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 173.645,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "18"
+    }
+  ],
+  [
+    [
+      "109",
+      "Marcello Ciarlo"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "15.389 km",
+        "flown": "15.389 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 42.846,
+        "distance": 125.668,
+        "leading": 0,
+        "effort": 82.822,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "148.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "15.389 km",
+      "subtotal": 125.668,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T13:00:45.532181923081Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 125.668,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "19"
+    }
+  ],
+  [
+    [
+      "131",
+      "Jurgen Buchert"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "6.297 km",
+        "flown": "6.297 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 19.489,
+        "distance": 50.849,
+        "leading": 0,
+        "effort": 31.36,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "220.000 m",
+      "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "6.297 km",
+      "subtotal": 50.849,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T14:28:30.431279360942Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 50.849,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "20"
+    }
+  ],
+  [
+    [
+      "114",
+      "Konrad Lueders"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "31.704 km",
+        "flown": "31.704 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 88.27,
+        "distance": 255.177,
+        "leading": 0,
+        "effort": 166.908,
+        "arrival": 0
+      },
+      "essNotGoal": false,
+      "stoppedAlt": "149.000 m",
+      "demeritFrac": 255.177,
+      "penaltiesJumpRaw": null,
+      "demeritReset": 0,
+      "landedMade": "31.704 km",
+      "subtotal": 255.177,
+      "penaltyReason": "Airspace",
+      "velocity": {
+        "gs": "2020-09-11T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-09-11T11:50:40.144782161432Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 0,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": [
+          {
+            "penalty-fraction": 0
+          }
+        ]
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "21"
+    }
+  ]
+]

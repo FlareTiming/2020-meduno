@@ -1,0 +1,15 @@
+{
+  "scoredSeconds": [
+    1032,
+    12036
+  ],
+  "scoredWindowSeconds": 11004,
+  "scoredTimes": [
+    "2020-09-11T11:00:16Z",
+    "2020-09-11T14:03:40Z"
+  ],
+  "scoredFixes": [
+    1032,
+    12032
+  ]
+}
