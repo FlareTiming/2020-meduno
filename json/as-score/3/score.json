@@ -7,18 +7,18 @@
     {
       "timeElapsed": "1.913060 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 350,
+        "time": 398.6,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 87.5,
+        "distance": 430.558,
+        "leading": 99.7,
         "effort": 0.5,
-        "arrival": 62.5
+        "arrival": 71.2
       },
-      "leadingCoef": 1.23610571,
+      "leadingCoef": 1.30014772,
       "landedMade": null,
       "es": "2020-09-12T13:34:47Z",
       "total": 1000,
@@ -43,29 +43,29 @@
     {
       "timeElapsed": "2.362220 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 184.7,
+        "time": 242.5,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 48.9,
+        "distance": 430.558,
+        "leading": 54.4,
         "effort": 0.5,
-        "arrival": 53.9
+        "arrival": 61.4
       },
-      "leadingCoef": 1.56171585,
+      "leadingCoef": 1.64868212,
       "landedMade": null,
       "es": "2020-09-12T14:01:44Z",
-      "total": 787.424,
+      "total": 788.854,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "2",
       "fractions": {
-        "time": 0.52754279,
+        "time": 0.60830042,
         "reach": 1,
         "distance": 1,
-        "leading": 0.55899172,
+        "leading": 0.54623305,
         "effort": 1,
         "arrival": 0.86243022
       }
@@ -79,29 +79,29 @@
     {
       "timeElapsed": "2.389440 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 178,
+        "time": 234.6,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 47.9,
+        "distance": 430.558,
+        "leading": 53.6,
         "effort": 0.5,
-        "arrival": 46.4
+        "arrival": 52.8
       },
-      "leadingCoef": 1.5745254,
+      "leadingCoef": 1.65821862,
       "landedMade": null,
       "es": "2020-09-12T14:03:22Z",
-      "total": 772.259,
+      "total": 771.597,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "3",
       "fractions": {
-        "time": 0.50864141,
+        "time": 0.58861524,
         "reach": 1,
         "distance": 1,
-        "leading": 0.54750004,
+        "leading": 0.53799311,
         "effort": 1,
         "arrival": 0.74177067
       }
@@ -115,29 +115,29 @@
     {
       "timeElapsed": "2.396390 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 176.4,
+        "time": 232.6,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 50,
+        "distance": 430.558,
+        "leading": 57,
         "effort": 0.5,
-        "arrival": 39.8
+        "arrival": 45.3
       },
-      "leadingCoef": 1.54864716,
+      "leadingCoef": 1.61976983,
       "landedMade": null,
       "es": "2020-09-12T14:03:47Z",
-      "total": 766.082,
+      "total": 765.5,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "4",
       "fractions": {
-        "time": 0.50387783,
+        "time": 0.5836239,
         "reach": 1,
         "distance": 1,
-        "leading": 0.5708723,
+        "leading": 0.57168793,
         "effort": 1,
         "arrival": 0.636896
       }
@@ -151,29 +151,29 @@
     {
       "timeElapsed": "2.411390 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 172.8,
+        "time": 228.4,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 48.6,
+        "distance": 430.558,
+        "leading": 54.8,
         "effort": 0.5,
-        "arrival": 34.2
+        "arrival": 38.9
       },
-      "leadingCoef": 1.56635949,
+      "leadingCoef": 1.64393406,
       "landedMade": null,
       "es": "2020-09-12T14:04:41Z",
-      "total": 755.462,
+      "total": 752.672,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "5",
       "fractions": {
-        "time": 0.4936656,
+        "time": 0.57288307,
         "reach": 1,
         "distance": 1,
-        "leading": 0.55480871,
+        "leading": 0.55036355,
         "effort": 1,
         "arrival": 0.54668089
       }
@@ -187,29 +187,29 @@
     {
       "timeElapsed": "2.423610 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 169.9,
+        "time": 224.9,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 48.3,
+        "distance": 430.558,
+        "leading": 54.6,
         "effort": 0.5,
-        "arrival": 29.4
+        "arrival": 33.5
       },
-      "leadingCoef": 1.56918162,
+      "leadingCoef": 1.64651179,
       "landedMade": null,
       "es": "2020-09-12T14:05:25Z",
-      "total": 747.561,
+      "total": 743.518,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "6",
       "fractions": {
-        "time": 0.48542011,
+        "time": 0.56417111,
         "reach": 1,
         "distance": 1,
-        "leading": 0.5522761,
+        "leading": 0.54811875,
         "effort": 1,
         "arrival": 0.47
       }
@@ -221,31 +221,31 @@
       "Oliver Salewski"
     ],
     {
-      "timeElapsed": "2.435280 h",
+      "timeElapsed": "2.435560 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 167.2,
+        "time": 221.5,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 47.9,
+        "distance": 430.558,
+        "leading": 54,
         "effort": 0.5,
-        "arrival": 25.4
+        "arrival": 28.9
       },
-      "leadingCoef": 1.57432567,
+      "leadingCoef": 1.65424933,
       "landedMade": null,
-      "es": "2020-09-12T14:06:07Z",
-      "total": 740.407,
+      "es": "2020-09-12T14:06:08Z",
+      "total": 734.894,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "7",
       "fractions": {
-        "time": 0.47761058,
+        "time": 0.55569068,
         "reach": 1,
         "distance": 1,
-        "leading": 0.5476781,
+        "leading": 0.54141375,
         "effort": 1,
         "arrival": 0.405728
       }
@@ -257,31 +257,31 @@
       "Tullio Gervasoni"
     ],
     {
-      "timeElapsed": "2.540560 h",
+      "timeElapsed": "2.540830 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 143.4,
+        "time": 192.2,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 42.5,
+        "distance": 430.558,
+        "leading": 47.1,
         "effort": 0.5,
-        "arrival": 19.4
+        "arrival": 22.1
       },
-      "leadingCoef": 1.64643395,
+      "leadingCoef": 1.73718723,
       "landedMade": null,
-      "es": "2020-09-12T14:12:26Z",
-      "total": 705.158,
+      "es": "2020-09-12T14:12:27Z",
+      "total": 691.918,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "8",
       "fractions": {
-        "time": 0.40957243,
+        "time": 0.48225197,
         "reach": 1,
         "distance": 1,
-        "leading": 0.48547984,
+        "leading": 0.4723456,
         "effort": 1,
         "arrival": 0.30990933
       }
@@ -295,29 +295,29 @@
     {
       "timeElapsed": "2.456940 h",
       "reach": {
-        "extra": "85.156532 km",
-        "flown": "85.156532 km"
+        "extra": "85.326926 km",
+        "flown": "85.326926 km"
       },
       "breakdown": {
-        "time": 129.7,
+        "time": 172.4,
         "reach": 0.499,
-        "distance": 499.594,
-        "leading": 48.7,
+        "distance": 430.26,
+        "leading": 55.2,
         "effort": 0.5,
-        "arrival": 17.6
+        "arrival": 20.1
       },
-      "leadingCoef": 1.56474842,
+      "leadingCoef": 1.64000311,
       "landedMade": null,
       "es": "2020-09-12T14:07:25Z",
-      "total": 695.644,
+      "total": 677.92,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "9",
       "fractions": {
-        "time": 0.3706077,
-        "reach": 0.99865877,
-        "distance": 0.99932938,
-        "leading": 0.55625773,
+        "time": 0.43246787,
+        "reach": 0.99861696,
+        "distance": 0.99930862,
+        "leading": 0.55379763,
         "effort": 1,
         "arrival": 0.28219164
       }
@@ -331,29 +331,29 @@
     {
       "timeElapsed": "2.606390 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 129.2,
+        "time": 174.4,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 37.9,
+        "distance": 430.558,
+        "leading": 41.3,
         "effort": 0.5,
-        "arrival": 15.6
+        "arrival": 17.8
       },
-      "leadingCoef": 1.71136908,
+      "leadingCoef": 1.81068391,
       "landedMade": null,
       "es": "2020-09-12T14:16:23Z",
-      "total": 682.58,
+      "total": 664.119,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "10",
       "fractions": {
-        "time": 0.36896682,
+        "time": 0.43757419,
         "reach": 1,
         "distance": 1,
-        "leading": 0.43253682,
+        "leading": 0.41473379,
         "effort": 1,
         "arrival": 0.25022222
       }
@@ -367,29 +367,29 @@
     {
       "timeElapsed": "2.600000 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 130.5,
+        "time": 176.1,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 33.4,
+        "distance": 430.558,
+        "leading": 34.3,
         "effort": 0.5,
-        "arrival": 17.3
+        "arrival": 19.7
       },
-      "leadingCoef": 1.7759555,
+      "leadingCoef": 1.9051246,
       "landedMade": null,
       "es": "2020-09-12T14:16:00Z",
-      "total": 681.154,
+      "total": 660.698,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "11",
       "fractions": {
-        "time": 0.37284934,
+        "time": 0.44189636,
         "reach": 1,
         "distance": 1,
-        "leading": 0.38222535,
+        "leading": 0.34461734,
         "effort": 1,
         "arrival": 0.276112
       }
@@ -403,29 +403,29 @@
     {
       "timeElapsed": "2.606390 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 129.2,
+        "time": 174.4,
         "reach": 0.5,
-        "distance": 499.93,
-        "leading": 30.8,
+        "distance": 430.558,
+        "leading": 31.4,
         "effort": 0.5,
-        "arrival": 14.4
+        "arrival": 16.5
       },
-      "leadingCoef": 1.81545253,
+      "leadingCoef": 1.94629085,
       "landedMade": null,
       "es": "2020-09-12T14:16:23Z",
-      "total": 674.376,
+      "total": 652.842,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "12",
       "fractions": {
-        "time": 0.36896682,
+        "time": 0.43757419,
         "reach": 1,
         "distance": 1,
-        "leading": 0.35244915,
+        "leading": 0.31521393,
         "effort": 1,
         "arrival": 0.23111467
       }
@@ -434,34 +434,34 @@
   [
     [
       "115",
-      "Eric Mathurin"
+      "ERIC MATHURIN"
     ],
     {
       "timeElapsed": "2.971390 h",
       "reach": {
-        "extra": "85.270900 km",
-        "flown": "85.270900 km"
+        "extra": "85.445076 km",
+        "flown": "85.445076 km"
       },
       "breakdown": {
-        "time": 57.2,
+        "time": 79.7,
         "reach": 0.5,
-        "distance": 499.93,
+        "distance": 430.558,
         "leading": 23.6,
         "effort": 0.5,
-        "arrival": 13.6
+        "arrival": 15.5
       },
-      "leadingCoef": 1.92926095,
+      "leadingCoef": 2.06040226,
       "landedMade": null,
       "es": "2020-09-12T14:38:17Z",
-      "total": 594.388,
+      "total": 549.339,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "13",
       "fractions": {
-        "time": 0.16342325,
+        "time": 0.19992217,
         "reach": 1,
         "distance": 1,
-        "leading": 0.27020346,
+        "leading": 0.23679399,
         "effort": 1,
         "arrival": 0.217664
       }
@@ -475,30 +475,30 @@
     {
       "timeElapsed": "3.101670 h",
       "reach": {
-        "extra": "84.996975 km",
-        "flown": "84.996975 km"
+        "extra": "85.166987 km",
+        "flown": "85.166987 km"
       },
       "breakdown": {
-        "time": 26.9,
+        "time": 37.8,
         "reach": 0.498,
-        "distance": 499.018,
+        "distance": 429.71,
         "leading": 31.6,
         "effort": 0.5,
-        "arrival": 10.4
+        "arrival": 11.9
       },
-      "leadingCoef": 1.80448122,
+      "leadingCoef": 1.94419049,
       "landedMade": null,
       "es": "2020-09-12T14:46:06Z",
-      "total": 567.931,
+      "total": 510.994,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "14",
       "fractions": {
-        "time": 0.07688509,
-        "reach": 0.9967876,
-        "distance": 0.99817604,
-        "leading": 0.36065045,
-        "effort": 0.99951172,
+        "time": 0.09492284,
+        "reach": 0.99674512,
+        "distance": 0.99803178,
+        "leading": 0.31669871,
+        "effort": 0.99926758,
         "arrival": 0.16699591
       }
     }
@@ -511,29 +511,29 @@
     {
       "timeElapsed": "3.399170 h",
       "reach": {
-        "extra": "85.062674 km",
-        "flown": "85.062674 km"
+        "extra": "85.233044 km",
+        "flown": "85.233044 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.499,
-        "distance": 499.281,
-        "leading": 4.2,
+        "distance": 429.964,
+        "leading": 3.5,
         "effort": 0.5,
-        "arrival": 10.2
+        "arrival": 11.6
       },
-      "leadingCoef": 2.26898123,
+      "leadingCoef": 2.38081745,
       "landedMade": null,
       "es": "2020-09-12T15:03:57Z",
-      "total": 513.636,
+      "total": 445.039,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "15",
       "fractions": {
         "time": 0,
-        "reach": 0.99755807,
-        "distance": 0.99870239,
-        "leading": 0.04790537,
+        "reach": 0.99751822,
+        "distance": 0.99862177,
+        "leading": 0.03513973,
         "effort": 0.99975586,
         "arrival": 0.1625856
       }
@@ -547,66 +547,30 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "76.220471 km",
-        "flown": "76.220471 km"
+        "extra": "76.394646 km",
+        "flown": "76.394646 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.447,
-        "distance": 446.361,
-        "leading": 15.1,
+        "distance": 384.401,
+        "leading": 25.4,
         "effort": 0.446,
         "arrival": 0
       },
-      "leadingCoef": 2.07288048,
+      "leadingCoef": 2.03391129,
       "landedMade": null,
       "es": null,
-      "total": 461.465,
+      "total": 409.775,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "16",
       "fractions": {
         "time": 0,
-        "reach": 0.89386263,
-        "distance": 0.89284797,
-        "leading": 0.17259048,
-        "effort": 0.8918457,
-        "arrival": 0
-      }
-    }
-  ],
-  [
-    [
-      "133",
-      "Johann Courtain"
-    ],
-    {
-      "timeElapsed": null,
-      "reach": {
-        "extra": "72.246411 km",
-        "flown": "72.246411 km"
-      },
-      "breakdown": {
-        "time": 0,
-        "reach": 0.424,
-        "distance": 418.414,
-        "leading": 0,
-        "effort": 0.413,
-        "arrival": 0
-      },
-      "leadingCoef": 2.53782289,
-      "landedMade": null,
-      "es": null,
-      "total": 418.414,
-      "ss": "2020-09-12T11:40:00Z",
-      "leadingArea": null,
-      "place": "17",
-      "fractions": {
-        "time": 0,
-        "reach": 0.84725752,
-        "distance": 0.83694631,
-        "leading": 0,
-        "effort": 0.82666016,
+        "reach": 0.89407873,
+        "distance": 0.89279707,
+        "leading": 0.25462779,
+        "effort": 0.89160156,
         "arrival": 0
       }
     }
@@ -619,30 +583,66 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "72.165587 km",
-        "flown": "72.165587 km"
+        "extra": "72.339762 km",
+        "flown": "72.339762 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.423,
-        "distance": 417.81,
-        "leading": 0,
+        "distance": 359.875,
+        "leading": 9.9,
         "effort": 0.413,
         "arrival": 0
       },
-      "leadingCoef": 2.40555572,
+      "leadingCoef": 2.27511811,
       "landedMade": null,
       "es": null,
-      "total": 417.81,
+      "total": 369.753,
+      "ss": "2020-09-12T11:40:00Z",
+      "leadingArea": null,
+      "place": "17",
+      "fractions": {
+        "time": 0,
+        "reach": 0.84662271,
+        "distance": 0.8358347,
+        "leading": 0.09912739,
+        "effort": 0.82495117,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "133",
+      "Johann Courtain"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "72.420587 km",
+        "flown": "72.420587 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0.424,
+        "distance": 360.418,
+        "leading": 5.5,
+        "effort": 0.413,
+        "arrival": 0
+      },
+      "leadingCoef": 2.34649225,
+      "landedMade": null,
+      "es": null,
+      "total": 365.966,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "18",
       "fractions": {
         "time": 0,
-        "reach": 0.84630966,
-        "distance": 0.83573786,
-        "leading": 0,
-        "effort": 0.82519531,
+        "reach": 0.84756864,
+        "distance": 0.83709522,
+        "leading": 0.05568061,
+        "effort": 0.82666016,
         "arrival": 0
       }
     }
@@ -655,30 +655,30 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "58.746089 km",
-        "flown": "58.746089 km"
+        "extra": "58.920265 km",
+        "flown": "58.920265 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 0.344,
-        "distance": 316.068,
-        "leading": 0,
+        "reach": 0.345,
+        "distance": 272.366,
+        "leading": 13.7,
         "effort": 0.288,
         "arrival": 0
       },
-      "leadingCoef": 3.16868992,
+      "leadingCoef": 2.21407551,
       "landedMade": null,
       "es": null,
-      "total": 316.068,
+      "total": 286.032,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "19",
       "fractions": {
         "time": 0,
-        "reach": 0.68893478,
-        "distance": 0.63222564,
-        "leading": 0,
-        "effort": 0.57543945,
+        "reach": 0.68956868,
+        "distance": 0.63258894,
+        "leading": 0.13713334,
+        "effort": 0.57568359,
         "arrival": 0
       }
     }
@@ -691,30 +691,30 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "55.555291 km",
-        "flown": "55.555291 km"
+        "extra": "55.729467 km",
+        "flown": "55.729467 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.326,
-        "distance": 294.63,
+        "distance": 253.83,
         "leading": 0,
-        "effort": 0.264,
+        "effort": 0.263,
         "arrival": 0
       },
-      "leadingCoef": 3.56893369,
+      "leadingCoef": 2.46211212,
       "landedMade": null,
       "es": null,
-      "total": 294.63,
+      "total": 253.83,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "20",
       "fractions": {
         "time": 0,
-        "reach": 0.65151525,
-        "distance": 0.58934258,
+        "reach": 0.65222543,
+        "distance": 0.58953868,
         "leading": 0,
-        "effort": 0.52709961,
+        "effort": 0.52685547,
         "arrival": 0
       }
     }
@@ -727,30 +727,30 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "51.313510 km",
-        "flown": "51.313510 km"
+        "extra": "51.487686 km",
+        "flown": "51.487686 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.301,
-        "distance": 267.168,
+        "distance": 230.224,
         "leading": 0,
-        "effort": 0.234,
+        "effort": 0.233,
         "arrival": 0
       },
-      "leadingCoef": 4.02946063,
+      "leadingCoef": 2.79083379,
       "landedMade": null,
       "es": null,
-      "total": 267.168,
+      "total": 230.224,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "21",
       "fractions": {
         "time": 0,
-        "reach": 0.60177048,
-        "distance": 0.53441095,
+        "reach": 0.60258208,
+        "distance": 0.53471078,
         "leading": 0,
-        "effort": 0.46704102,
+        "effort": 0.46679688,
         "arrival": 0
       }
     }
@@ -763,29 +763,29 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "48.731829 km",
-        "flown": "48.731829 km"
+        "extra": "48.906005 km",
+        "flown": "48.906005 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.286,
-        "distance": 251.663,
-        "leading": 0,
+        "distance": 216.949,
+        "leading": 1.5,
         "effort": 0.218,
         "arrival": 0
       },
-      "leadingCoef": 3.84803909,
+      "leadingCoef": 2.41468838,
       "landedMade": null,
       "es": null,
-      "total": 251.663,
+      "total": 218.452,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "22",
       "fractions": {
         "time": 0,
-        "reach": 0.57149425,
-        "distance": 0.503397,
-        "leading": 0,
+        "reach": 0.57236758,
+        "distance": 0.50388,
+        "leading": 0.01508282,
         "effort": 0.43530273,
         "arrival": 0
       }
@@ -799,28 +799,28 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "47.064321 km",
-        "flown": "47.064321 km"
+        "extra": "47.238497 km",
+        "flown": "47.238497 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.276,
-        "distance": 239.96,
+        "distance": 206.856,
         "leading": 0,
         "effort": 0.204,
         "arrival": 0
       },
-      "leadingCoef": 4.17079114,
+      "leadingCoef": 2.72227802,
       "landedMade": null,
       "es": null,
-      "total": 239.96,
+      "total": 206.856,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "23",
       "fractions": {
         "time": 0,
-        "reach": 0.55193884,
-        "distance": 0.47998848,
+        "reach": 0.55285203,
+        "distance": 0.48043839,
         "leading": 0,
         "effort": 0.40795898,
         "arrival": 0
@@ -835,28 +835,28 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "47.030508 km",
-        "flown": "47.030508 km"
+        "extra": "47.204684 km",
+        "flown": "47.204684 km"
       },
       "breakdown": {
         "time": 0,
         "reach": 0.276,
-        "distance": 239.722,
+        "distance": 206.652,
         "leading": 0,
         "effort": 0.204,
         "arrival": 0
       },
-      "leadingCoef": 4.69874742,
+      "leadingCoef": 3.6119164,
       "landedMade": null,
       "es": null,
-      "total": 239.722,
+      "total": 206.652,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "24",
       "fractions": {
         "time": 0,
-        "reach": 0.5515423,
-        "distance": 0.47951249,
+        "reach": 0.5524563,
+        "distance": 0.4799628,
         "leading": 0,
         "effort": 0.4074707,
         "arrival": 0
@@ -866,33 +866,33 @@
   [
     [
       "108",
-      "Jean Louis Foglia"
+      "Jean louis FOGLIA"
     ],
     {
       "timeElapsed": null,
       "reach": {
         "extra": "7.000000 km",
-        "flown": "3.037148 km"
+        "flown": "3.211323 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 0.018,
-        "distance": 27.808,
+        "reach": 0.019,
+        "distance": 23.914,
         "leading": 0,
         "effort": 0.015,
         "arrival": 0
       },
-      "leadingCoef": 7.62011068,
+      "leadingCoef": 6.27240456,
       "landedMade": null,
       "es": null,
-      "total": 27.808,
+      "total": 23.914,
       "ss": "2020-09-12T11:40:00Z",
       "leadingArea": null,
       "place": "25",
       "fractions": {
         "time": 0,
-        "reach": 0.03561763,
-        "distance": 0.05562471,
+        "reach": 0.03758347,
+        "distance": 0.05554104,
         "leading": 0,
         "effort": 0.02905273,
         "arrival": 0
